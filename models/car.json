@@ -1,0 +1,16 @@
+[
+    {
+        "id":1,
+        "name":"logan",
+        "model":"renault",
+        "yeasrs":2018,
+        "price":650000
+    },
+    {
+        "id":2,
+        "name":"priora",
+        "model":"lada",
+        "yeasrs":2012,
+        "price":850000
+    }
+]
